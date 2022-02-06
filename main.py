@@ -9,7 +9,7 @@ while True:
         # sending message to receiver
         # using pywhatkit
         pywhatkit.sendwhatmsg("+916296642512",
-                        "Hello from GeeksforGeeks",
+                        "Hello from Babai",
                         23, 59)
         print("Successfully Sent!")
 
@@ -18,4 +18,4 @@ while True:
         # handling exception
         # and printing error message
         print("An Unexpected Error!")
-    time.sleep(86400)
+    time.sleep(3600)
