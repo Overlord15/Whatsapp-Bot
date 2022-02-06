@@ -18,4 +18,4 @@ while True:
         # handling exception
         # and printing error message
         print("An Unexpected Error!")
-    time.sleep(2.4)
+    time.sleep(86400)
