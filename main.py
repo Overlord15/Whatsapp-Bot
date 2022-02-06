@@ -8,9 +8,9 @@ while True:
 
         # sending message to receiver
         # using pywhatkit
-        pywhatkit.sendwhatmsg("+91xxxxxxxxxx",
+        pywhatkit.sendwhatmsg("+916296642512",
                         "Hello from GeeksforGeeks",
-                        22, 28)
+                        23, 59)
         print("Successfully Sent!")
 
     except:
